@@ -43,6 +43,12 @@ h1, h2 {
     text-align: center;
 }
 
+h4 {
+    color: #EE82EE;
+    font-size: 10px;
+    text-align: center;
+}
+
 img {
     padding: inherit;
     margin:auto;
