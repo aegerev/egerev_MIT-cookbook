@@ -55,6 +55,11 @@ p {
     color: #EE8900;
 }
 
+li {
+    text-align: center;
+    color: #ACE1AF;
+}
+
 footer {
     bottom: 0;
     width: 100%;
