@@ -38,7 +38,7 @@ nav a:hover {
     color: #FFD800;
 }
 
-h1 {
+h1, h2 {
     color: #FFAA50;
     text-align: center;
 }
