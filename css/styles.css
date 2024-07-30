@@ -66,6 +66,12 @@ li {
     color: #ACE1AF;
 }
 
+table {
+    margin-left: auto;
+    margin-right: auto;
+    color: #FFD800;
+}
+
 footer {
     bottom: 0;
     width: 100%;
